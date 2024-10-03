@@ -1,7 +1,7 @@
 from .pic2asc import pic2asc
 from .color import color_type
 
-VERSION = "0.1.0"
+VERSION = "0.0.2"
 
 __all__ = ["pic2asc","color_type"]
 

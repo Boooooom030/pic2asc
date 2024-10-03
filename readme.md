@@ -1,6 +1,6 @@
-# pic2ascc
+# pic2asc
 
-A tool to print pictrue on your terminal or into file
+A tool to print picture on your terminal or into file
 
 
 ## install

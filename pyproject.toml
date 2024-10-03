@@ -1,6 +1,6 @@
 [project]
 name = "pic2asc"
-version = "0.0.1"
+version = "0.0.2"
 description = "turn pic to ascii with color"
 dependencies = [
   "Pillow"
@@ -10,7 +10,7 @@ requires-python = ">=3.12"
 license = {file = "LICENSE"}
 keywords = ["ascii art","picture"]
 classifiers = [
-    "Developmen Status :: 4 - Beta",
+    "Development Status :: 4 - Beta",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3 :: Only",
@@ -18,3 +18,6 @@ classifiers = [
 
 [project.scripts]
 pic2asc = "pic2asc:main"
+
+[project.urls]
+"Source" = "https://github.com/Boooooom030/pic2asc"
